@@ -26,5 +26,4 @@ Dotted lines disappeare at the upper and bottom edge of the widget
 ### ER: 
 There are dotted lines on all edges of the widget
 
-### Attachments: 
-[screenshot](https://drive.google.com/file/d/15QtRUSYWKIeQ3bjNEe6GNyAO_tjLw4xv/view?usp=sharing)
+### Attachments: [screenshot link](https://drive.google.com/file/d/15QtRUSYWKIeQ3bjNEe6GNyAO_tjLw4xv/view?usp=sharing)
