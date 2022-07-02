@@ -1,6 +1,7 @@
 https://personal.techcore.io/signin
 
-Bug id: 1 
+Bug id: 1
+
 Title: Linkedin “Sign in” button doesn’t work on the authorization page
 Severity: blocker
 Priority: high
@@ -11,6 +12,7 @@ Actual result: The button doesn’t work
 Expected result: A window opens for entering a Linkedin password 
 
 Bug id: 2
+
 Title: Email on Gmail don’t received after authorization 
 Severity: major
 Priority: high
@@ -29,6 +31,7 @@ Expected result:
 Received an email with the link to verification
 
 Bug id: 3
+
 Title: Email don’t received after after clicking on the button “Resend” on the verifying page
 Severity: major
 Priority: high
@@ -47,6 +50,7 @@ Actual result: The email doesn’t come
 Expected result: Received an email with the link to verification
 
 Bug id: 4
+
 Title: The button “Privacy policy” doesn’t work on the sign up page
 Severity: blocker
 Priority: high
@@ -59,6 +63,7 @@ Actual result: The button doesn’t work
 Expected result: Privacy policy window open
 
 Bug id: 5
+
 Title: The button “Terms of service” doesn’t work 
 Severity: blocker
 Priority: high
@@ -72,6 +77,7 @@ Expected result: Terms of service window open
 
 
 Bug id: 6
+
 Title: The form “Start” shows an error  “Invalid date” after resetting the date
 Severity: major
 Priority: medium
@@ -92,6 +98,7 @@ Actual result:  The form “Start” shows Invalid date
 Expected result: A window pops up with a date selection
 
 Bug id: 7
+
 Title: The form “End” shows Invalid date after reset the date
 Severity: blocker
 Priority: medium
@@ -113,6 +120,7 @@ Actual result: The form “Start” shows an error “Invalid date”
 Expected result: A window pops up with a date selection
 
 Bug id: 8
+
 Title: The form “End” doesn’t work after turning off the checkbox 
 Severity: major
 Priority: medium
@@ -134,6 +142,7 @@ Actual result: The form “Start” doesn’t work
 Expected result: A window pops up with a date selection
 
 Bug id: 9
+
 Title: The checkbox name contains a grammatical error on the 
 Severity: trivial
 Priority: medium
@@ -150,6 +159,7 @@ Actual result:  The name of checkbox “Til now”
 Expected result: The name of checkbox “Till now”
 
 Bug id: 10
+
 Title: The background color of the form “End” is different from main color of other forms 
 Severity: minor
 Priority: medium
@@ -166,6 +176,7 @@ Actual result:  The background color of the form “End” is white
 Expected result: The background color of the form “End” is gray
 
 Bug id: 11
+
 Title: The first button doesn’t work in the upper left corner of the main page
 Severity: blocker
 Priority: high
@@ -176,6 +187,7 @@ Actual result: The button doesn’t work
 Expected result: The main page is open
 
 Bug id: 11
+
 Title: Unable to open the comments in Notifications
 Severity: blocker
 Priority: medium
@@ -187,6 +199,7 @@ Actual result: The comment doesn’t open
 Expected result: The comment open
 
 Bug id: 12
+
 Title: The button “Mark all as read” doesn’t work  in Notifications
 Severity: blocker
 Priority: medium
@@ -198,6 +211,7 @@ Actual result: The button doesn’t work
 Expected result: All comments are marked as read 
 
 Bug id: 12
+
 Title: The button “Job search” doesn’t work 
 Severity: blocker
 Priority: medium
@@ -208,6 +222,7 @@ Actual result: The button doesn’t work
 Expected result: The Job search page is open 
 
 Bug id: 13
+
 Title: Error: Something go wrong after clicking “Get link” in HTML CV
 Severity: major
 Priority: medium
@@ -224,6 +239,7 @@ Actual result: Show an error: “Something go wrong”! in the upper center of t
 Expected result: The link is copied 
 
 Bug id: 14
+
 Title: The function “Google sign in” doesn’t work 
 Severity: major
 Priority: high
@@ -235,6 +251,7 @@ Actual result: Return to the page https://personal.techcore.io/signin
 Expected result: The page https://personal.techcore.io/cvbuilder is open
 
 Bug id: 15
+
 Title: The function “Reset Password” doesn’t work 
 Severity: major
 Priority: high
@@ -247,6 +264,7 @@ Actual result: The email doesn’t come
 Expected result: Received an email 
 
 Bug id: 16
+
 Title: The button “Go back”  doesn’t work on the page of the reset password page 
 Severity: blocker
 Priority: high
@@ -258,6 +276,7 @@ Actual result: The button doesn’t work
 Expected result: The page  https://personal.techcore.io/signin is open
 
 Bug id: 17
+
 Title: Not possible to move the image to the right and left during the loading the photo on CV 
 Severity: minor
 Priority: low
@@ -271,6 +290,7 @@ Actual result: The image doesn’t move right and left
 Expected result: The image moves right and left
 
 Bug id: 18
+
 Title: There is no visual separation into the form columns on skills/experience/level on the page with Technical skills
 Severity: minor
 Priority: low
@@ -285,6 +305,7 @@ Actual result:There are no visual lines separating the columns between the words
 Expected result: There are visual lines separating the columns between the words
 
 Bug id: 19
+
 Title: The text form “School” name contains a lexical error 
 Severity: trivial
 Priority: medium
@@ -299,7 +320,9 @@ STR:
 8. On the form Education fint the text form School
 Actual result:  The name of the form is School
 Expected result: The name of form is Educational Institution
+
 Bug id: 20
+
 Title: The form “End date” shows an error: “Invalid date after reset the date”
 Severity: major
 Priority: medium
@@ -318,6 +341,7 @@ Actual result:  The form Start shows an error: Invalid date
 Expected result: A window pops up with a date selection
 
 Bug id: 21
+
 Title: Unable to convert the CV to PDF after creating
 Severity: major
 Priority: medium
