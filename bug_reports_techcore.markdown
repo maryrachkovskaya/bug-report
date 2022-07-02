@@ -23,9 +23,9 @@ Enter Password
 Tap the button Sign up
 A page opens with the message Verify your email address
 Open your Gmail inbox and checkout the email from techkore
-# Actual result: 
+Actual result: 
 The email doesn’t come
-# Expected result: 
+Expected result: 
 Received an email with the link to verification
 
 Bug id: 3
