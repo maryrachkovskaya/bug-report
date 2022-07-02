@@ -1,24 +1,20 @@
-# Bug id: 1 #
-# Title:v# 
-Linkedin “Sign in” button doesn’t work on the authorization page
-# Severity: # 
-blocker
- # Priority: # 
- high
-# STR:#
+https://personal.techcore.io/signin
+
+Bug id: 1 
+Title: Linkedin “Sign in” button doesn’t work on the authorization page
+Severity: blocker
+Priority: high
+STR:
 Open https://personal.techcore.io/signin
 Tap the button  “Linkedin Sign”
 Actual result: The button doesn’t work
 Expected result: A window opens for entering a Linkedin password 
 
-# Bug id: 2
-# Title: 
-Email on Gmail don’t received after authorization 
-# Severity: 
-major
-# Priority: 
-high
-# STR:
+Bug id: 2
+Title: Email on Gmail don’t received after authorization 
+Severity: major
+Priority: high
+STR:
 Open https://personal.techcore.io/signin
 Tap the button “Sign up”
 Enter First name, Last name
