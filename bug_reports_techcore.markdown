@@ -1,18 +1,24 @@
-Bug id: 1
-Title: Linkedin “Sign in” button doesn’t work on the authorization page
-Severity: blocker
-Priority: high
-STR:
+# Bug id: 1 #
+# Title:v# 
+Linkedin “Sign in” button doesn’t work on the authorization page
+# Severity: # 
+blocker
+ # Priority: # 
+ high
+# STR:#
 Open https://personal.techcore.io/signin
 Tap the button  “Linkedin Sign”
 Actual result: The button doesn’t work
 Expected result: A window opens for entering a Linkedin password 
 
-Bug id: 2
-Title: Email on Gmail don’t received after authorization 
-Severity: major
-Priority: high
-STR:
+# Bug id: 2
+# Title: 
+Email on Gmail don’t received after authorization 
+# Severity: 
+major
+# Priority: 
+high
+# STR:
 Open https://personal.techcore.io/signin
 Tap the button “Sign up”
 Enter First name, Last name
@@ -21,8 +27,10 @@ Enter Password
 Tap the button Sign up
 A page opens with the message Verify your email address
 Open your Gmail inbox and checkout the email from techkore
-Actual result: The email doesn’t come
-Expected result: Received an email with the link to verification
+# Actual result: 
+The email doesn’t come
+# Expected result: 
+Received an email with the link to verification
 
 Bug id: 3
 Title: Email don’t received after after clicking on the button “Resend” on the verifying page
